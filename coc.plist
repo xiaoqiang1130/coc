@@ -2,10 +2,10 @@
 <! DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>items</key>
-  <array>
-    <dict>
-      <key>assets</key>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
       <array>
         <dict>
           <key>kind</key>
